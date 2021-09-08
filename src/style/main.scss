@@ -1,0 +1,18 @@
+@use './color';
+@use './text';
+@use './buttons';
+@use './grid';
+@use './img';
+html {
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+main {
+    margin: 3rem;
+}
